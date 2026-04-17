@@ -1,7 +1,0 @@
-project_id = "ewoucgdnrafivtddafck"
-
-[functions.weather]
-verify_jwt = false
-
-[functions.city-search]
-verify_jwt = false
